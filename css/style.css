@@ -1,6 +1,15 @@
+/*Body CSS*/
+body{
+    background-color:#BEBFB4;
+}
 /* Nav Bar CSS */
-
-
+.navbar-header{
+ background-color:#BF0413;
+ color:#BEBFB4;
+}
+li{
+    background-color: #A60303
+}
 /* Header CSS */
 
 
