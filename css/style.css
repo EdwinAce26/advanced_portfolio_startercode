@@ -1,34 +1,46 @@
 /*Body CSS*/
-body{
-    background-color:#BEBFB4;
-}
+
 /* Nav Bar CSS */
-.navbar-header{
- background-color:#BF0413;
- color:#BEBFB4;
-}
-li{
-    background-color: #A60303
+.navbar .navbar-default{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 12px;
+    letter-spacing: 5px;
+    border:none;
 }
 /* Header CSS */
+.text-center{
+    text-align:center;
+}
+.bg-1{
+    background-color: #263238;
+    padding-top: 15px;
+    padding-bottom:15px;
+    border:none;
+    color:white;
 
-
-
+}
+.bg-2{
+    background-color:#B0BEC5;
+}
+.bg-3{
+    background-color:#abcdef;    
+}
+.list-inline>li {
+    display: inline-block;
+    padding-right: 5px;
+    padding-left: 5px;
+    height:45px!important;
+    width: 45px!important;
+    font-size:45px;
+}
 /* Section CSS */
-
-
 
 /* About Section CSS */
 
-
-
 /* Portfolio Item CSS */
 
-
-
 /* Footer CSS */
-
-
 
 /* Button CSS */
 
