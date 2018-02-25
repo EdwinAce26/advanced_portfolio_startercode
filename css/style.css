@@ -1,13 +1,12 @@
 /*Body CSS*/
-body{
-    background-color:#263238 !important;
-}
+
 /* Nav Bar CSS */
 .navbar .navbar-default{
-    padding: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     font-size: 12px;
     letter-spacing: 5px;
-    display: block;
+    border:none;
 }
 /* Header CSS */
 .text-center{
@@ -17,7 +16,7 @@ body{
     background-color: #263238;
     padding-top: 15px;
     padding-bottom:15px;
-    border:none !important;
+    border:none;
     color:white;
 
 }
@@ -29,10 +28,10 @@ body{
 }
 .list-inline>li {
     display: inline-block;
-    margin-right: 10px;
-    margin-left: 10px;
-    height:35px !important;
-    width: 35px !important;
+    padding-right: 5px;
+    padding-left: 5px;
+    height:45px!important;
+    width: 45px!important;
     font-size:45px;
 }
 /* Section CSS */
