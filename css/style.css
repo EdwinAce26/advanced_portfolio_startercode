@@ -34,14 +34,7 @@
     width: 45px!important;
     font-size:45px;
 }
-/* Section CSS */
 
-/* About Section CSS */
-
-/* Portfolio Item CSS */
-
-/* Footer CSS */
-
-/* Button CSS */
-
-
+img {
+  max-width: 100%
+}
